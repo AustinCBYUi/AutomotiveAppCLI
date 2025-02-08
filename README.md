@@ -1,11 +1,11 @@
 # Overview
-
+Austin Campbell <br><br>
 As a software engineer focused on furthering my skills, I created this Kotlin-based automotive conversion application to deepen my understanding of the language and its features. The software is designed to handle various unit conversions related to automotive metrics such as torque, pressure, gear ratios, temperature, and socket sizes. This project allowed me to explore Kotlin’s syntax, handling user inputs, and structuring a CLI application.
 
 The purpose of writing this software was to develop a tool that can perform precise automotive measurements and conversions while practicing core concepts of Kotlin, such as functions, conditionals, and loops.
 I have never utilized Kotlin before, and I originally attempted to make an application that could be accessed on my phone while at work.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/ZDX0Q_VP61s)
 
 # Development Environment
 

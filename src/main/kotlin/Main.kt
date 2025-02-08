@@ -48,7 +48,7 @@ fun handleTorqueConversion() {
         "2" -> performTorqueConversion("ft-lb", "Nm")
         "3" -> performTorqueConversion("in-lb", "ft-lb")
         "4" -> performTorqueConversion("ft-lb", "in-lb")
-        else -> println("Invali choice")
+        else -> println("Invalid choice")
     }
 }
 
